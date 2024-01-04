@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EvaCompiler": {
+      "commandName": "Project",
+      "workingDirectory": "$(MSBuildProjectDirectory)"
+    }
+  }
+}
